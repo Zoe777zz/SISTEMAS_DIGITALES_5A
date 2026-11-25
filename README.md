@@ -11,18 +11,6 @@ Repositorio académico de apuntes y resúmenes de la asignatura de Sistemas Digi
 | Asignatura | Sistemas Digitales |
 | Ciclo y paralelo | Quinto A |
 
-## Unidad 01 — Cuaderno de apuntes
-
-[Consultar cuaderno completo (PDF)](./UNIDAD_01/CUADERNO.pdf)
-
-Temas principales:
-
-- Sistemas embebidos, microcontroladores y microprocesadores.
-- Memorias, buses y arquitecturas.
-- GPIO, registros y operaciones de bits.
-- ESP32 y ATmega328P.
-- Temporizadores, contadores e interrupciones.
-
 ## Unidad 02 — Apuntes de clase
 
 | Clase | Fecha | Tema | Material |

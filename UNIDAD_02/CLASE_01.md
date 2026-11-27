@@ -191,8 +191,3 @@ flowchart LR
 
 La ESP32 puede adquirir señales de sensores mediante el ADC, procesar sus valores digitales, reducir el ruido mediante filtros y mostrar resultados en una pantalla LCD. El muestreo y la cuantización son etapas fundamentales de la digitalización.
 
----
-
-**Fuente:** apuntes manuscritos de la clase del 24 de noviembre de 2026.
-
-**Complementos:** se añadió la etapa de codificación, se desarrolló la fórmula del promedio móvil, se precisaron los GPIO del ADC2 y se incluyó una precaución sobre los niveles eléctricos de I2C. Los diagramas son esquemas didácticos basados en los apuntes.

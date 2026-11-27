@@ -1,7 +1,5 @@
 # Sistemas Digitales
 
-**Unidad:** 02  
-**Clase:** 02  
 **Fecha:** miércoles, 25 de noviembre de 2026  
 **Tema:** Controlador LCD HD44780, sensor de temperatura LM35 y decibelios.
 
@@ -186,8 +184,4 @@ Ejemplo complementario: si una etapa pierde 3 dB y otra pierde 2 dB, la ganancia
 
 El HD44780 controla los caracteres de la pantalla LCD mediante tres memorias y señales de control como RS, R/W y E. El sensor LM35 convierte la temperatura en una tensión proporcional de 10 mV/°C, que puede ser digitalizada mediante el ADC de la ESP32. Los decibelios permiten representar de manera logarítmica relaciones de potencia y calcular ganancias o pérdidas en distintas etapas.
 
----
 
-**Fuente:** apuntes manuscritos de la clase del 25 de noviembre de 2026.
-
-**Complementos:** se añadieron diagramas Mermaid, ejemplos de temperatura, precisiones sobre las memorias y señales del LCD, la aclaración sobre el rango del ADC y las fórmulas y el ejemplo de decibelios. Estos complementos explicativos no son una transcripción literal de los apuntes.
